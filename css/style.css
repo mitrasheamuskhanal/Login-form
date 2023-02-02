@@ -27,6 +27,7 @@ body{
    padding: 6px;
 }
 .box input {
+    background: none;
     width: 100%; 
     outline: none;
     border: none;
