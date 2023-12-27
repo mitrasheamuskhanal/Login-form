@@ -1,4 +1,4 @@
-  @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
 
 *{
     padding: 0px;
@@ -16,10 +16,10 @@ body{
     position: absolute;
     left: 50%;
     top: 40%;
-    background-color:rgb(76 76 76 / 9%);
+    background-color:rgb(76 76 76 / 38%);
     border-radius: 10%;
     box-shadow: 5px 5px rgba(0, 0, 0, 0.212);
-    padding: 30px;
+    padding: 94px;
 }
 .container h1{
     
